@@ -58,7 +58,7 @@ In this section, you’ll use Python and SQLAlchemy to perform a basic climate a
 4. **Plot Temperature Observations**
    - Query the previous 12 months of TOBS data for the most active station.
    - Plot the results as a histogram with bins=12.
-    ![Most_Actice_Station_Bar]https://github.com/eeanguyen/sqlalchemy-challenge/blob/main/surfsup/images/%20Station%20USC00519281%20Histogram.png)
+    ![Most_Actice_Station_Bar](https://github.com/eeanguyen/sqlalchemy-challenge/blob/main/surfsup/images/%20Station%20USC00519281%20Histogram.png)
 
 ## Database Setup
 
